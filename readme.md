@@ -1,0 +1,1 @@
+Python script that uses the BeautifulSoup library for web scraping and the MySQL Connector library for connecting to and inserting data into a MySQL table. Please note that web scraping may be subject to legal and ethical considerations, and it's important to check if the website allows scraping and follow the website's terms of service.
